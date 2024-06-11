@@ -8,27 +8,26 @@ Let people know what your project can do specifically. Provide context and add a
 
 ## Data files
 
-    The datasets of well logs and the marker depths have been extracted from the state government websites of USA. The datset for each well is extrated seperately and then joined together to create the whole dataset.
+The datasets of well logs and the marker depths have been extracted from the state government websites of USA. The datset for each well is extrated seperately and then joined together to create the whole dataset.
     
-    A sample dataset is provided, just to understant the format of the final created dataset.
+A sample dataset is provided, just to understant the format of the final created dataset.
 
 - [ ] [Colorado dataset](https://ecmc.state.co.us/data.html#/cogis) 
 - [ ] [Wyoming dataset](https://pipeline.wyo.gov/wellchoiceMenu2.cfm?oops=ID88107&Skip=Y) 
-
-    The [UEA](https://www.timeseriesclassification.com/) is a benchmark dataset for multivariate time series classification. It can be downloaded from the website or using the tsai library.
+- [ ]The [UEA](https://www.timeseriesclassification.com/) is a benchmark dataset for multivariate time series classification. It can be downloaded from the website or using the tsai library.
 
 ## Components of GeoX
 
-- ![ plot] (.GeoX\Images\Block diagram.png)
+- ![ plot](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Images/Block%20diagram.png?ref_type=heads)
 
 
 ## Test and Deploy
 
 We have tutorial notebooks on the deployment of the functions for different use cases.
 
-- [ ] [Tutorial Marker Propagation](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [UCR Tutorial](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Gradcam tutorial](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
+- [ ] [Tutorial Marker Propagation](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Tutorial_Marker_propagation.ipynb?ref_type=heads)
+- [ ] [UCR Tutorial](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/UCR_tutorial.ipynb?ref_type=heads)
+- [ ] [Gradcam tutorial](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Gradcam_tutorial.ipynb?ref_type=heads)
 
 ***
 
