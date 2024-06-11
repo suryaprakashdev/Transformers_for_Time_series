@@ -47,5 +47,5 @@ To install all the packages needed for to run the file, please execute the Insta
 Show your appreciation to those who have contributed to the project.
 
 ## License
-For open source projects, say how it is licensed.
+Attribution-NonCommercial-ShareAlike 4.0 International
 
