@@ -31,7 +31,7 @@ A sample dataset is provided, just to understant the format of the final created
 
 We have tutorial notebooks on the deployment of the functions for different use cases.
 
-- [ ] [Tutorial Marker Propagation](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Tutorial_Marker_propagation.ipynb?ref_type=heads)
+- [ ] [Marker Propagation](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Marker_propagation.ipynb?ref_type=heads)
 - [ ] [UCR Tutorial](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/UCR_tutorial.ipynb?ref_type=heads)
 - [ ] [Gradcam tutorial](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Gradcam_tutorial.ipynb?ref_type=heads)
 
@@ -40,7 +40,7 @@ We have tutorial notebooks on the deployment of the functions for different use 
 
 ## Installation
 
-To install all the packages needed for to run the file. Please execute the Install.py file.
+To install all the packages needed for to run the file. Please execute the Install.ipynb file.
 
 
 ## Authors and acknowledgment
