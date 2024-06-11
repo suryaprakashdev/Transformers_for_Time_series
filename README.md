@@ -14,11 +14,11 @@ A sample dataset is provided, just to understant the format of the final created
 
 - [ ] [Colorado dataset](https://ecmc.state.co.us/data.html#/cogis) 
 - [ ] [Wyoming dataset](https://pipeline.wyo.gov/wellchoiceMenu2.cfm?oops=ID88107&Skip=Y) 
-- [ ]The [UEA](https://www.timeseriesclassification.com/) is a benchmark dataset for multivariate time series classification. It can be downloaded from the website or using the tsai library.
+- [ ] [UEA](https://www.timeseriesclassification.com/) is a benchmark dataset for multivariate time series classification. It can be downloaded from the website or using the tsai library.
 
 ## Components of GeoX
 
-- ![ plot](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Images/Block%20diagram.png?ref_type=heads)
+- ![ plot](main/Images/Blockdiagram.png?ref_type=heads)
 
 
 ## Test and Deploy
