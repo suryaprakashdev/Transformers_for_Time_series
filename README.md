@@ -18,7 +18,7 @@ A sample dataset is provided, just to understant the format of the final created
 
 ## Components of GeoX
 
-- ![ plot](main/Images/Blockdiagram.png?ref_type=heads)
+![Block diagram of the key components of GeoX](/Images/Block_diagram.png) 
 
 
 ## Test and Deploy
