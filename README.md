@@ -12,7 +12,7 @@ We have an implementation of GradCAM focussed on time series data, which helps t
 
 ## Components of GeoXts
 
-![Block diagram of the key components of GeoX](/Images/Block_diagram.png) 
+![Block diagram of the key components of GeoXts](/Images/Block_diagram.png) 
 
 
 ## Data files
