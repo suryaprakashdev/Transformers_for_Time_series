@@ -37,7 +37,7 @@ We have tutorial notebooks on the deployment of the functions for different use 
 
 ***
 
-The functions folder will be later converted into a libraray.
+The geox folder will be converted into a libraray.
 ## Installation
 
 To install all the packages needed for to run the file, please execute the Install.ipynb.
