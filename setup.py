@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='geox',
+    name='geoxts',
     version='0.1.0',    
-    description='geox package',
-    url='https://gitlab.lisn.upsaclay.fr/salimath/geox',
+    description='A benchmark library for time series classification with gradcam visualisations, focused on geological data.',
+    url='https://gitlab.lisn.upsaclay.fr/salimath/geoxts',
     author='Shwetha Salimath',
     author_email='shwetha.salimath@lisn.fr',
     license='CC BY-NC-SA',

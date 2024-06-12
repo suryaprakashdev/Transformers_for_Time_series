@@ -1,16 +1,16 @@
-# GeoX
+# GeoXts
 
 
 
 ## Description
 
-GeoX is a library for benchmarking time series classification. It is more focused on Geological usecase of trying to understand the sub-surface soil formations around the oil wells. 
+GeoXts is a library for benchmarking time series classification. It is more focused on Geological usecase of trying to understand the sub-surface soil formations around the oil wells. 
 The formation tops are refferred to as Markers. At present the marker depths are calculsted by expert geologist. This library is manly focussed on the automization of this process, for the new wells drilled.
 
 We have an implementation of GradCAM focussed on time series data, which helps to understand the feature importance in multivariate time series. 
 
 
-## Components of GeoX
+## Components of GeoXts
 
 ![Block diagram of the key components of GeoX](/Images/Block_diagram.png) 
 
@@ -38,7 +38,7 @@ We have tutorial notebooks on the deployment of the functions for different use 
 
 ***
 
-The geox folder will be converted into a libraray.
+The geoxts folder will be converted into a libraray.
 ## Installation
 
 To install all the packages needed for to run the file, please execute the Install.ipynb.
