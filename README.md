@@ -25,6 +25,43 @@ A sample dataset is provided, just to understant the format of the final created
 - [ ] [Wyoming dataset](https://pipeline.wyo.gov/wellchoiceMenu2.cfm?oops=ID88107&Skip=Y) 
 - [ ] [UEA](https://www.timeseriesclassification.com/) is a benchmark dataset for multivariate time series classification. It can be downloaded from the website or using the tsai library.
 
+Project Overview
+This project evaluates transformer-based models for predicting marker tops from time-series well log data and compares them with previously used deep learning baselines.
+
+Earlier approaches using XCM, LSTM, and Bi-LSTM achieved strong performance. The objective of this work is to benchmark transformer architectures and determine whether they provide meaningful improvements in prediction quality and efficiency for this specific time-series task.
+
+Models Implemented
+
+PatchTST
+
+TSTPlus
+
+Dataset
+
+Univariate time-series well log data
+
+Task: Marker top prediction
+
+Input: Fixed-length time-series windows
+
+Output: Marker top class labels
+
+Key Results
+
+PatchTST achieved a recall of 99 percent, which is the best performance on the current dataset
+
+TSTPlus achieved high recall with a more compact and efficient architecture
+
+Evaluation Metrics
+
+Recall (primary metric)
+
+Accuracy
+
+Confusion matrix analysis
+
+Model size and parameter count
+
 
 
 
