@@ -27,26 +27,4 @@ A sample dataset is provided, just to understant the format of the final created
 
 
 
-## Test and Deploy
-
-We have tutorial notebooks on the deployment of the functions for different use cases.
-
-- [ ] [Marker Propagation](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Marker_propagation.ipynb?ref_type=heads)
-- [ ] [Marker Propagation benchmark](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Benchmark_Colorado.ipynb?ref_type=heads)
-- [ ] [UCR Tutorial](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/UCR_tutorial.ipynb?ref_type=heads)
-- [ ] [Gradcam tutorial](https://gitlab.lisn.upsaclay.fr/salimath/geox/-/blob/main/Gradcam_tutorial.ipynb?ref_type=heads)
-
-***
-
-The geoxts folder will be converted into a libraray.
-## Installation
-
-To install all the packages needed for to run the file, please execute the Install.ipynb.
-
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-Attribution-NonCommercial-ShareAlike 4.0 International
 
