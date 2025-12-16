@@ -1,0 +1,2 @@
+arch,hyperparams,mae,recall,Run time
+LSTM_2dCNN,{},3.475,0.96,48

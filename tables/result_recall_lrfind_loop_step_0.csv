@@ -1,0 +1,2 @@
+arch,hyperparams,mae,recall,Run time
+LSTM_FCN,{},10.44,0.97,44

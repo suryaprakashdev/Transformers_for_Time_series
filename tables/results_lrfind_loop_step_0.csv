@@ -1,0 +1,2 @@
+arch,hyperparams,total params,train loss,valid loss,accuracy,time
+LSTM_FCN,{},388868,0.006395314354449511,0.1581611931324005,0.963567852973938,8

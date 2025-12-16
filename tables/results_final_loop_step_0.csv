@@ -1,0 +1,2 @@
+arch,hyperparams,total params,train loss,valid loss,accuracy,time
+LSTM_2dCNN,{},148654,0.005879873409867287,0.2210904359817505,0.9660804271697998,12
