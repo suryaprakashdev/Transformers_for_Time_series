@@ -1,4 +1,4 @@
-# GeoXts
+# Transformer Models for Marker Top Prediction
 
 
 
@@ -25,7 +25,7 @@ A sample dataset is provided, just to understant the format of the final created
 - [ ] [Wyoming dataset](https://pipeline.wyo.gov/wellchoiceMenu2.cfm?oops=ID88107&Skip=Y) 
 - [ ] [UEA](https://www.timeseriesclassification.com/) is a benchmark dataset for multivariate time series classification. It can be downloaded from the website or using the tsai library.
 
-# Transformer Models for Marker Top Prediction
+
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
