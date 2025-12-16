@@ -82,11 +82,11 @@ This project evaluates transformer-based architectures for predicting marker top
 
 | Model | Recall | Accuracy | Parameters | Notes |
 |-------|--------|----------|------------|-------|
-| **PatchTST** | **99%** | 98 | 796,676| **Best performance** on current dataset |
-| **TSTPlus** | **99** | 99.4 | 554,240 | More compact and efficient architecture |
-| XCM (Baseline) | **96** | 97.61 | 585,342 | Previous benchmark |
-| LSTM (Baseline) | **96** | 97.48 |415,918 | Previous benchmark |
-| Bi-LSTM (Baseline) | **96** | 96.66 | 148,654 | Previous benchmark |
+| **PatchTST** | **99%** | 98% | 796,676| **Best performance** on current dataset |
+| **TSTPlus** | **99%** | 99.4% | 554,240 | More compact and efficient architecture |
+| XCM (Baseline) | **96%** | 97.61% | 585,342 | Previous benchmark |
+| LSTM (Baseline) | **96%** | 97.48% |415,918 | Previous benchmark |
+| Bi-LSTM (Baseline) | **96%** | 96.66% | 148,654 | Previous benchmark |
 
 ### Key Findings
 - ✅ PatchTST achieves **99% recall**, representing the best performance on the current dataset
